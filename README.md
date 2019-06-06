@@ -8,9 +8,6 @@ Gaussian process regression experiment
 - Compare predictive mean and variance
 
 ## Prior sampling experiment
-- Kernel hyperparameter
-    - lengthscale = 0.3
-    - variance = 4
 ![prior sample(gauss)](https://github.com/s-iwazaki/gp-regression/blob/master/image/gp-prior-gauss.png)
 ![prior sample(matern3/2)](https://github.com/s-iwazaki/gp-regression/blob/master/image/gp-prior-matern32.png)
 ![prior sample(matern5/2)](https://github.com/s-iwazaki/gp-regression/blob/master/image/gp-prior-matern52.png)
