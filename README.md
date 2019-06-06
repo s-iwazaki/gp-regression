@@ -1,5 +1,5 @@
-# gp-regression
-Gaussian process regression experiment
+# Gaussian Process Regression 
+Gaussian process regression experiment code
 - Compare following kernel
     - Gauss(Squared Exponential)
     - Matern3/2
